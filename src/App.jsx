@@ -5,6 +5,7 @@ import { Navbar } from './components/navbar/navbar';
 import { Experience } from './components/Experience/Experience';
 import { Projects } from './components/Projects/Projects';
 import { Contact } from './components/Contact/Contact';
+import './index.css';
 
 
 function App() {

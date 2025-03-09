@@ -1,11 +1,20 @@
 [
+
     {
-        "title": "HTML",
-        "imgSrc": "html.png"
+        "title": "Python",
+        "imgSrc": "python.png"
     },
     {
-        "title": "CSS",
-        "imgSrc": "css.png"
+        "title": "Java",
+        "imgSrc": "Java.png"
+    },
+    {
+        "title": "C",
+        "imgSrc": "C.png"
+    },
+    {
+        "title": "C++",
+        "imgSrc": "C++.png"
     },
     {
         "title": "React",
@@ -14,6 +23,10 @@
     {
         "title": "HTML",
         "imgSrc": "html.png"
-    }
+    },
+    {
+        "title": "CSS",
+        "imgSrc": "css.png"
+    }   
 
 ]

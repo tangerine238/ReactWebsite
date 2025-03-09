@@ -12,7 +12,7 @@ export const Hero = () => {
             I'm specifically interested in game development, artificial
             intelligence, and economics.
             </p>
-            <a href="mailto:sw2tang@uwaterloo.ca" className={styles.contactBtn}>Contact Me</a>
+            <a href="Resume.pdf" download="Stephen Tang's Resume" className={styles.contactBtn}>Download Resume</a>
         </div>
         <img src={getImageURL("MeCropped.png")} alt="hero image of me" className={styles.heroImg}/>
         <div className={styles.topBlur}/>
