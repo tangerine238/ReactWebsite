@@ -1,0 +1,27 @@
+[
+    {
+        "role": "Software Developer",
+        "organization": "UW Orbital Satallite Design Team",
+        "startDate": "Sept 2024",
+        "endDate": "Present",
+        "experiences": ["Responsible for code that allows the satellite to take pictures of various places on Earth from space, in real-time", "Assisted other team members with code integration", "Responsible for code pertaining to arducam shield"],
+        "imgSrc": "Orbital.jpg"
+    },
+    {
+        "role": "Executive",
+        "organization": "UTS VEX Robtoics Team",
+        "startDate": "Jan 2023",
+        "endDate": "April 2024",
+        "experiences": ["Responsible for build and design of robot", "Responsible for training newer members of the club, and teaching them the basics of VEX building", "Qualified for the 2024 VEX Worlds Competition in Dallas, Texas"],
+        "imgSrc": "VEX.png"
+    },
+    {
+        "role": "Captain",
+        "organization": "Competitive Trivia",
+        "startDate": "Sept 2022",
+        "endDate": "Present",
+        "experiences": ["Responsible for the recruitment, training, and organization of the UTS Trivia Team", "”Reach for the Top” Champion, 2023, 2024", "”Consensus Trivia National Champion”, 2023, 2024"],
+        "imgSrc": "reech.png"
+    }
+
+]

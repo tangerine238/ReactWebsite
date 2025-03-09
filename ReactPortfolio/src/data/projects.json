@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Voice Controlled Wheelchair",
+        "imageSrc": "wheelchair.png",
+        "description": "The voice controlled wheelchair aims to give people with more severe mobility issues, greater freedom in their day to day life.",
+        "skills": ["Raspberry Pi", "Netcat", "Vosk", "3D Modelling", "Bash"],
+        "demo": ["https://www.youtube.com/watch?v=Ehrhy8XFH9U"],
+        "source": "https://github.com/raphael-64/voice-controlled-wheelchair"
+    },
+    {
+        "title": "Arachn0id",
+        "imageSrc": "Arachnoid.png",
+        "description": "Arachn0id is a third person survival shooter, made in Unreal Engine. The player acts as a spider, attempting to break free of the military compound it's held prisoner at. The player must navigate through levels, defeat enemies, and fight bosses, all while managing their heat bar.",
+        "skills": ["Unreal Engine"],
+        "demo": ["https://www.youtube.com/watch?v=PmJj_05cReA"],
+        "source": "https://djfox58.itch.io/arachn0id"
+    },
+    {
+        "title": "Kitchen Frenzy",
+        "imageSrc": "Kitchen.png",
+        "description": "This game was my introduction to Unity. I learned how base functions work, got used to scripting and much more. In the game, the player must create dishes to satisfy customer orders. Original tutorial is linked in the video description.",
+        "skills": ["Unity 6"],
+        "demo": ["https://www.youtube.com/watch?v=aaEWYY_Tlhc"],
+        "source": "https://github.com/tangerine238/KitchenFrenzy"
+    }   
+
+]
