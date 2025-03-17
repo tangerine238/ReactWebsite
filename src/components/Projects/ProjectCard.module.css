@@ -21,7 +21,7 @@
 
 .description {
     margin-top: 6px;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 400;
 }
 
@@ -40,7 +40,7 @@
     font-weight: 400;
     border-radius: 100px;
     background: var(--color-dark);
-    padding: 2px, 22px;
+    padding: 2px 22px;
 }
 
 .links  {
