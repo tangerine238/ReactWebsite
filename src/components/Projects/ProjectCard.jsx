@@ -2,6 +2,16 @@ import React from "react";
 import { getImageURL } from "../../utils";
 import styles from "./ProjectCard.module.css"
 
+const skillColors = {
+    "Raspberry Pi": "#C51A4A",
+    "Netcat": "#4CAF50",
+    "Vosk": "#FF9800",
+    "3D Modelling": "#9C27B0",
+    "Bash": "#795548",
+    "Unreal Engine": "#2196F3",
+    "Unity 6": "#607D8B"
+};
+
 export const ProjectCard = ({project : {title, imageSrc, description, skills, demo, source}}) => {
     return (
     <div className={styles.container}>
@@ -10,7 +20,15 @@ export const ProjectCard = ({project : {title, imageSrc, description, skills, de
         <p className={styles.description}>{description}</p>
         <ul className={styles.skills}>{
             skills.map((skill, id) => {
-                return <li key={id} className={styles.skill}>{skill}</li>
+                return (
+                    <li 
+                        key={id} 
+                        className={styles.skill}
+                        style={{ color: skillColors[skill] || "#FFFFFF" }}
+                    >
+                        {skill}
+                    </li>
+                )
             })}
         </ul>
         <div className={styles.links}>
