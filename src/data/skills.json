@@ -27,6 +27,18 @@
     {
         "title": "CSS",
         "imgSrc": "css.png"
-    }   
+    },  
+    {
+        "title": "Unity 6",
+        "imgSrc": "Unity.webp"
+    },
+    {
+        "title": "Unreal 5",
+        "imgSrc": "Unreal.webp"
+    },
+    {
+        "title": "Godot",
+        "imgSrc": "Godot.webp"
+    }
 
 ]
