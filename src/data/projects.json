@@ -8,6 +8,14 @@
         "source": "https://tangerine238.itch.io/name-pending"
     },
     {
+        "title": "Witch, Wash, Wepeat",
+        "imageSrc": "Witch.png",
+        "description": "Use powerful spells and daring parkour to navigate the puzzling manor and gather laundry as quickly as possible in single-player or co-op.",
+        "skills": ["Unreal Engine"],
+        "demo": ["https://youtu.be/rOwZAZs3V3g"],
+        "source": "https://leifu.itch.io/witch-wash-repeat"
+    },
+    {
         "title": "Voice Controlled Wheelchair",
         "imageSrc": "wheelchair.png",
         "description": "The voice controlled wheelchair aims to give people with more severe mobility issues, greater freedom in their day to day life.",
