@@ -7,7 +7,7 @@ export const Hero = () => {
         <div className={styles.content}>
             <h1 className={styles.title}>Hi, I'm Stephen Tang</h1>
             <p className={styles.description}>
-            I'm currently a first year Software Engineering Student at the
+            I'm currently a second year Software Engineering Student at the
             University of Waterloo. I'm interested in technology and business.
             I'm specifically interested in game development, artificial
             intelligence, and economics.
