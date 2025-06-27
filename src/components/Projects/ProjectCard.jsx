@@ -9,7 +9,8 @@ const skillColors = {
     "3D Modelling": "#9C27B0",
     "Bash": "#795548",
     "Unreal Engine": "#2196F3",
-    "Unity 6": "#607D8B"
+    "Unity 6": "#607D8B",
+    "Steam Advanced Sessions": "#0E48A0"
 };
 
 export const ProjectCard = ({project : {title, imageSrc, description, skills, demo, source}}) => {
