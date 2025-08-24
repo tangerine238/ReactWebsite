@@ -43,7 +43,7 @@
         "title": "Kitchen Frenzy",
         "imageSrc": "Kitchen.png",
         "description": "This game was my introduction to Unity. I learned how base functions work, got used to scripting and much more. In the game, the player must create dishes to satisfy customer orders. Original tutorial is linked in the video description.",
-        "skills": ["Unity 6"],
+        "skills": ["Unity 6", "C#"],
         "demo": ["https://www.youtube.com/watch?v=aaEWYY_Tlhc"],
         "source": "https://github.com/tangerine238/KitchenFrenzy"
     },  
@@ -51,7 +51,7 @@
         "title": "Gravity Guy",
         "imageSrc": "GravityGuy.png",
         "description": "My first solo game in Unity! Based off one of my favourite childhood games, Gravity Guy. Credits to its creators for the inspiration",
-        "skills": ["Unity 6"],
+        "skills": ["Unity 6", "C#"],
         "demo": ["https://youtu.be/Q6liLikwNCY"],
         "source": "https://tangerine238.itch.io/gravity-guy"
     }    

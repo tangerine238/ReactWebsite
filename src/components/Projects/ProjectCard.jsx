@@ -15,7 +15,8 @@ const skillColors = {
   "Typescript": "#3178C6",
   "HTML": "#E34F26",
   "CSS": "#2965F1",
-  "Python": "#3776AB"
+  "Python": "#3776AB",
+  "C#": "#512BD4"
 };
 
 export const ProjectCard = ({ project: { title, imageSrc, description, skills, demo, source } }) => {
