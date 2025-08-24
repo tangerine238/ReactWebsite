@@ -19,7 +19,7 @@
         "title": "GenZMode",
         "imageSrc": "GenZMode.png",
         "description": "GenZMode makes navigating your banking app easy and efficient. Send money, and add various contacts with the press of a button",
-        "skills": ["React", "Typescript", "Javascript", "HTML", "CSS"],
+        "skills": ["React", "Typescript", "HTML", "CSS"],
         "demo": ["https://youtu.be/hCyN1fXmtIY"],
         "source": "https://github.com/tangerine238/GenZMode"
     },
