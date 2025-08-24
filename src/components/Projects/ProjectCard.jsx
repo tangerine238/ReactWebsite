@@ -3,18 +3,19 @@ import { getImageURL } from "../../utils";
 import styles from "./ProjectCard.module.css"
 
 const skillColors = {
-    "Raspberry Pi": "#C51A4A",
-    "Netcat": "#4CAF50",
-    "Vosk": "#FF9800",
-    "3D Modelling": "#9C27B0",
-    "Bash": "#795548",
-    "Unreal Engine": "#2196F3",
-    "Unity 6": "#607D8B",
-    "Steam Advanced Sessions": "#FDEC57",
-    "React": "#49eb34",
-    "Typescript": "#7734eb",
-    "HTML": "#001aff",
-    "CSS": "#c71858",
+"Raspberry Pi": "#D81B60",
+  "Netcat": "#00C853",
+  "Vosk": "#FF8F00",
+  "3D Modelling": "#8E24AA",
+  "Bash": "#2E7D32",
+  "Unreal Engine": "#2962FF",
+  "Unity 6": "#5C6BC0",
+  "Steam Advanced Sessions": "#00BCD4",
+  "React": "#0096C7",
+  "Typescript": "#3178C6",
+  "HTML": "#E34F26",
+  "CSS": "#2965F1",
+  "Python": "#3776AB"
 };
 
 export const ProjectCard = ({ project: { title, imageSrc, description, skills, demo, source } }) => {
