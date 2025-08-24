@@ -16,6 +16,14 @@
         "source": "https://leifu.itch.io/witch-wash-repeat"
     },
     {
+        "title": "GenZMode",
+        "imageSrc": "GenZMode.png",
+        "description": "GenZMode makes navigating your banking app easy and efficient. Send money, and add various contacts with the press of a button",
+        "skills": ["React", "Typescript", "Javascript", "HTML", "CSS"],
+        "demo": ["https://youtu.be/hCyN1fXmtIY"],
+        "source": "https://github.com/tangerine238/GenZMode"
+    },
+    {
         "title": "Voice Controlled Wheelchair",
         "imageSrc": "wheelchair.png",
         "description": "The voice controlled wheelchair aims to give people with more severe mobility issues, greater freedom in their day to day life.",
