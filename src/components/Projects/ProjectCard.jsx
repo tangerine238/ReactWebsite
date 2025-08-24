@@ -15,32 +15,29 @@ const skillColors = {
     "Typescript": "#7734eb",
     "HTML": "#001aff",
     "CSS": "#c71858",
-    
 };
 
-export const ProjectCard = ({project : {title, imageSrc, description, skills, demo, source}}) => {
-    return (
+export const ProjectCard = ({ project: { title, imageSrc, description, skills, demo, source } }) => {
+  return (
     <div className={styles.container}>
-        <img src={getImageURL(imageSrc)} alt={`Image of ${title}`} className={styles.image}/>
-        <h3 className={styles.title}>{title}</h3>
-        <p className={styles.description}>{description}</p>
-        <ul className={styles.skills}>{
-            skills.map((skill, id) => {
-                return (
-                    <li 
-                        key={id} 
-                        className={styles.skill}
-                        style={{ color: skillColors[skill] || "#FFFFFF" }}
-                    >
-                        {skill}
-                    </li>
-                )
-            })}
-        </ul>
-        <div className={styles.links}>
-            <a href={demo} className={styles.link} target="_blank" rel="noopener noreferrer">Demo</a>
-            <a href={source} className={styles.link} target="_blank" rel="noopener noreferrer">Source</a>
-        </div>
+      <img src={getImageURL(imageSrc)} alt={`Image of ${title}`} className={styles.image} />
+      <h3 className={styles.title}>{title}</h3>
+      <p className={styles.description}>{description}</p>
+      <ul className={styles.skills}>
+        {skills.map((skill, id) => (
+          <li
+            key={id}
+            className={styles.skill}
+            style={{ backgroundColor: skillColors[skill] || "var(--color-primary)" }}
+          >
+            {skill}
+          </li>
+        ))}
+      </ul>
+      <div className={styles.links}>
+        <a href={demo} className={styles.link} target="_blank" rel="noopener noreferrer">Demo</a>
+        <a href={source} className={styles.link} target="_blank" rel="noopener noreferrer">Source</a>
+      </div>
     </div>
-    );
-}
+  );
+};
