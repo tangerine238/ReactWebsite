@@ -3,7 +3,7 @@ import { getImageURL } from "../../utils";
 import styles from "./ProjectCard.module.css"
 
 const skillColors = {
-"Raspberry Pi": "#D81B60",
+  "Raspberry Pi": "#D81B60",
   "Netcat": "#00C853",
   "Vosk": "#FF8F00",
   "3D Modelling": "#8E24AA",

@@ -19,7 +19,7 @@
         "title": "Voice Controlled Wheelchair",
         "imageSrc": "wheelchair.png",
         "description": "The voice controlled wheelchair aims to give people with more severe mobility issues, greater freedom in their day to day life.",
-        "skills": ["Raspberry Pi", "Netcat", "Vosk", "3D Modelling", "Bash"],
+        "skills": ["Python","Raspberry Pi", "Netcat", "Vosk", "3D Modelling", "Bash"],
         "demo": ["https://www.youtube.com/watch?v=Ehrhy8XFH9U"],
         "source": "https://github.com/raphael-64/voice-controlled-wheelchair"
     },
