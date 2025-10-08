@@ -10,7 +10,7 @@
     {
         "title": "Dreadnaught",
         "imageSrc": "yfnMl9.jpg",
-        "description": "WELCOME ABOARD, ADMIRAL. Few have the technical skill needed to command the DSS Dreadnought. Fewer still have the iron resolve needed to face such overwhelming odds. Our forward screening fleet has been scattered by enemy forces and is under attack. The enemy is using advanced signal jammers to disrupt comms and move undetected. Worse still, our supplies are limited, so you must be both efficient and effective with your equipment usage. We’ve approved use of our recon facilities, as well as our turrets if need be. Remember, information is our greatest weapon. But be warned, the battlefield can be unpredictable, and a radiation storm looms over the horizon… We know the stakes are personal for you, Admiral. Make your motherland proud. Dobrichnostan salutes you.",
+        "description": "Use a variety of tools to locate and track enemy ships, to protect your allies.",
         "skills": ["Unity 6", "C#"],
         "demo": ["https://matthewz80.itch.io/dreadnought"],
         "source": "https://matthewz80.itch.io/dreadnought"
